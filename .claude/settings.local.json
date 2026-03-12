@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:ui.shadcn.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(npm create:*)",
+      "Bash(npx create-vite@latest . --template react-ts --yes 2>&1 || true)",
+      "Read(//private/tmp/**)",
+      "Bash(npx create-vite@latest quickship-temp --template react-ts)",
+      "Bash(cp -r /tmp/quickship-temp/* /tmp/quickship-temp/.gitignore /Users/ula/StudioProjects/frontend/onigroup-demo/ 2>&1 && rm -rf /tmp/quickship-temp)",
+      "Bash(npm install:*)",
+      "Bash(npx shadcn@latest init -d 2>&1)"
+    ]
+  }
+}
