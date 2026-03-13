@@ -31,12 +31,6 @@ export function Sidebar({ mode, onToggle, stops, onAddDestination }: SidebarProp
         <p className="text-sm text-muted-foreground">Logistics Dashboard</p>
       </div>
 
-      <div className="rounded-md border border-dashed border-primary/30 bg-primary/5 px-3 py-2.5">
-        <p className="text-xs leading-relaxed text-foreground">
-          <span className="font-semibold">Frontend:</span> React-based dispatcher dashboard and customer tracking portal, embedded Google Maps with live vehicle markers, ETA display, and delivery status timeline.
-        </p>
-      </div>
-
       <Separator />
 
       <div>
