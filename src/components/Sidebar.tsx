@@ -3,19 +3,17 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Switch } from '@/components/ui/switch'
 import { Separator } from '@/components/ui/separator'
 import { Input } from '@/components/ui/input'
-import { CostTracker } from './CostTracker'
 import { useAddressSearch, type SearchResult } from '@/hooks/useAddressSearch'
-import type { Mode } from '@/types'
+import type { DeliveryStop, Mode } from '@/types'
 
 interface SidebarProps {
   mode: Mode
   onToggle: () => void
-  totalCost: number
-  apiCalls: number
+  stops: DeliveryStop[]
   onAddDestination: (result: SearchResult) => void
 }
 
-export function Sidebar({ mode, onToggle, totalCost, apiCalls, onAddDestination }: SidebarProps) {
+export function Sidebar({ mode, onToggle, stops, onAddDestination }: SidebarProps) {
   const isOni = mode === 'onigroup'
   const [query, setQuery] = useState('')
   const { results, loading, clearResults } = useAddressSearch(query)
@@ -31,6 +29,12 @@ export function Sidebar({ mode, onToggle, totalCost, apiCalls, onAddDestination 
       <div>
         <h1 className="text-xl font-bold tracking-tight">QuickShip</h1>
         <p className="text-sm text-muted-foreground">Logistics Dashboard</p>
+      </div>
+
+      <div className="rounded-md border border-dashed border-primary/30 bg-primary/5 px-3 py-2.5">
+        <p className="text-xs leading-relaxed text-foreground">
+          <span className="font-semibold">Frontend:</span> React-based dispatcher dashboard and customer tracking portal, embedded Google Maps with live vehicle markers, ETA display, and delivery status timeline.
+        </p>
       </div>
 
       <Separator />
@@ -65,26 +69,47 @@ export function Sidebar({ mode, onToggle, totalCost, apiCalls, onAddDestination 
         </div>
       </div>
 
+      {stops.length > 0 && (
+        <div className="space-y-1.5">
+          <h3 className="text-xs font-medium text-muted-foreground uppercase tracking-wider">
+            Selected ({stops.length})
+          </h3>
+          {stops.map((stop) => (
+            <div
+              key={stop.id}
+              className="flex items-center gap-2 rounded-md border p-2 text-xs animate-in fade-in slide-in-from-left-2 duration-300"
+            >
+              <div
+                className="h-2 w-2 rounded-full shrink-0"
+                style={{ backgroundColor: isOni ? '#38a169' : '#3b82f6' }}
+              />
+              <div className="min-w-0 flex-1">
+                <p className="font-medium truncate">{stop.name}</p>
+                <p className="text-muted-foreground truncate">{stop.address}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
+
       <Card>
         <CardHeader className="pb-2">
-          <CardTitle className="text-sm font-medium">Map Provider</CardTitle>
+          <CardTitle className="text-sm font-medium">Route Optimization</CardTitle>
         </CardHeader>
         <CardContent>
           <div className="flex items-center justify-between">
             <div className="space-y-0.5">
               <p className="text-sm font-medium">
-                {isOni ? 'OniGroup Wrapper' : 'Standard Google Maps'}
+                {isOni ? "Oni's Route Optimization AI" : 'Standard Routing'}
               </p>
               <p className="text-xs text-muted-foreground">
-                {isOni ? 'Optimized routing & caching' : 'Direct API usage'}
+                {isOni ? 'AI-powered route optimization' : 'Default route ordering'}
               </p>
             </div>
             <Switch checked={isOni} onCheckedChange={onToggle} />
           </div>
         </CardContent>
       </Card>
-
-      <CostTracker totalCost={totalCost} apiCalls={apiCalls} />
 
     </div>
   )

@@ -2,21 +2,10 @@ import { useCallback } from 'react'
 import { Sidebar } from './Sidebar'
 import { MapView } from './MapView'
 import { useDeliveryRoute } from '@/hooks/useDeliveryRoute'
-import { useCostSimulation } from '@/hooks/useCostSimulation'
 import type { SearchResult } from '@/hooks/useAddressSearch'
 
 export function Dashboard() {
   const { mode, toggleMode, routePath, stops, loading, addStop } = useDeliveryRoute()
-  const { totalCost, apiCalls, recordInteraction, resetCost } = useCostSimulation()
-
-  const handleToggle = useCallback(() => {
-    toggleMode()
-    resetCost()
-  }, [toggleMode, resetCost])
-
-  const handleInteraction = useCallback(() => {
-    recordInteraction(mode)
-  }, [recordInteraction, mode])
 
   const handleAddDestination = useCallback(
     (result: SearchResult) => {
@@ -37,9 +26,8 @@ export function Dashboard() {
     <div className="flex h-full">
       <Sidebar
         mode={mode}
-        onToggle={handleToggle}
-        totalCost={totalCost}
-        apiCalls={apiCalls}
+        onToggle={toggleMode}
+        stops={stops}
         onAddDestination={handleAddDestination}
       />
       <div className="flex-1">
@@ -47,7 +35,7 @@ export function Dashboard() {
           stops={stops}
           routePath={routePath}
           mode={mode}
-          onInteraction={handleInteraction}
+          onInteraction={() => {}}
         />
       </div>
     </div>
