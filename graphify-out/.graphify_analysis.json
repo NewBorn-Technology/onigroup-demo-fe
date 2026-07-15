@@ -1,0 +1,442 @@
+{
+  "communities": {
+    "0": [
+      "src_components_costtracker",
+      "src_components_costtracker_costtracker",
+      "src_components_costtracker_costtrackerprops",
+      "src_components_fleetsidebar",
+      "src_components_fleetsidebar_constraintbadge",
+      "src_components_fleetsidebar_fleetsidebar",
+      "src_components_sidebar",
+      "src_components_ui_badge",
+      "src_components_ui_badge_badge",
+      "src_components_ui_badge_badgevariants",
+      "src_components_ui_button",
+      "src_components_ui_button_button",
+      "src_components_ui_button_buttonvariants",
+      "src_components_ui_card",
+      "src_components_ui_card_card",
+      "src_components_ui_card_cardaction",
+      "src_components_ui_card_cardcontent",
+      "src_components_ui_card_carddescription",
+      "src_components_ui_card_cardfooter",
+      "src_components_ui_card_cardheader",
+      "src_components_ui_card_cardtitle",
+      "src_components_ui_input",
+      "src_components_ui_input_input",
+      "src_components_ui_progress",
+      "src_components_ui_progress_progress",
+      "src_components_ui_progress_progressindicator",
+      "src_components_ui_progress_progresslabel",
+      "src_components_ui_progress_progresstrack",
+      "src_components_ui_progress_progressvalue",
+      "src_components_ui_separator",
+      "src_components_ui_separator_separator",
+      "src_components_ui_switch",
+      "src_components_ui_switch_switch",
+      "src_lib_utils",
+      "src_lib_utils_cn"
+    ],
+    "1": [
+      "base_ui_react",
+      "class_variance_authority",
+      "clsx",
+      "fontsource_variable_geist",
+      "leaflet",
+      "lucide_react",
+      "package_dependencies",
+      "package_dependencies_base_ui_react",
+      "package_dependencies_class_variance_authority",
+      "package_dependencies_clsx",
+      "package_dependencies_fontsource_variable_geist",
+      "package_dependencies_leaflet",
+      "package_dependencies_lucide_react",
+      "package_dependencies_react",
+      "package_dependencies_react_dom",
+      "package_dependencies_react_leaflet",
+      "package_dependencies_shadcn",
+      "package_dependencies_tailwind_merge",
+      "package_dependencies_tailwindcss",
+      "package_dependencies_tailwindcss_vite",
+      "package_dependencies_tw_animate_css",
+      "package_dependencies_vis_gl_react_google_maps",
+      "react",
+      "react_dom",
+      "react_leaflet",
+      "shadcn",
+      "tailwind_merge",
+      "tailwindcss",
+      "tailwindcss_vite",
+      "tw_animate_css",
+      "vis_gl_react_google_maps"
+    ],
+    "2": [
+      "ref_dom",
+      "ref_dom_iterable",
+      "ref_google_maps",
+      "ref_src",
+      "ref_vite_client",
+      "tsconfig_app",
+      "tsconfig_app_compileroptions",
+      "tsconfig_app_compileroptions_allowimportingtsextensions",
+      "tsconfig_app_compileroptions_baseurl",
+      "tsconfig_app_compileroptions_erasablesyntaxonly",
+      "tsconfig_app_compileroptions_jsx",
+      "tsconfig_app_compileroptions_lib",
+      "tsconfig_app_compileroptions_module",
+      "tsconfig_app_compileroptions_moduledetection",
+      "tsconfig_app_compileroptions_moduleresolution",
+      "tsconfig_app_compileroptions_noemit",
+      "tsconfig_app_compileroptions_nofallthroughcasesinswitch",
+      "tsconfig_app_compileroptions_nouncheckedsideeffectimports",
+      "tsconfig_app_compileroptions_nounusedlocals",
+      "tsconfig_app_compileroptions_nounusedparameters",
+      "tsconfig_app_compileroptions_paths",
+      "tsconfig_app_compileroptions_skiplibcheck",
+      "tsconfig_app_compileroptions_strict",
+      "tsconfig_app_compileroptions_target",
+      "tsconfig_app_compileroptions_tsbuildinfofile",
+      "tsconfig_app_compileroptions_types",
+      "tsconfig_app_compileroptions_usedefineforclassfields",
+      "tsconfig_app_compileroptions_verbatimmodulesyntax",
+      "tsconfig_app_include",
+      "tsconfig_app_json_ref_es2023"
+    ],
+    "3": [
+      "eslint",
+      "eslint_js",
+      "eslint_plugin_react_hooks",
+      "eslint_plugin_react_refresh",
+      "globals",
+      "package_devdependencies",
+      "package_devdependencies_eslint",
+      "package_devdependencies_eslint_js",
+      "package_devdependencies_eslint_plugin_react_hooks",
+      "package_devdependencies_eslint_plugin_react_refresh",
+      "package_devdependencies_globals",
+      "package_devdependencies_types_google_maps",
+      "package_devdependencies_types_leaflet",
+      "package_devdependencies_types_node",
+      "package_devdependencies_types_react",
+      "package_devdependencies_types_react_dom",
+      "package_devdependencies_typescript",
+      "package_devdependencies_typescript_eslint",
+      "package_devdependencies_vite",
+      "package_devdependencies_vitejs_plugin_react",
+      "types_google_maps",
+      "types_leaflet",
+      "types_node",
+      "types_react",
+      "types_react_dom",
+      "typescript",
+      "typescript_eslint",
+      "vite",
+      "vitejs_plugin_react"
+    ],
+    "4": [
+      "src_components_deliverymarker",
+      "src_components_deliverymarker_deliverymarker",
+      "src_components_deliverymarker_deliverymarkerprops",
+      "src_components_fleetmapview",
+      "src_components_fleetmapview_fleetmapview",
+      "src_components_fleetmapview_fleetmapviewprops",
+      "src_components_fleetmapview_fleetmarker",
+      "src_components_fleetmapview_fleetmarkerprops",
+      "src_components_fleetmapview_jakarta_center",
+      "src_components_fleetmapview_manifeststop",
+      "src_components_fleetsidebar_fleetsidebarprops",
+      "src_components_mapview",
+      "src_components_mapview_mapviewprops",
+      "src_components_polyline",
+      "src_components_polyline_polyline",
+      "src_components_polyline_polylineprops",
+      "src_components_sidebar_sidebarprops",
+      "src_hooks_usecostsimulation",
+      "src_hooks_usecostsimulation_usecostsimulation",
+      "src_hooks_usedeliveryroute",
+      "src_types_index",
+      "src_types_index_coststate",
+      "src_types_index_deliverystop",
+      "src_types_index_fleetoptimizationresult",
+      "src_types_index_fleetroute",
+      "src_types_index_mode"
+    ],
+    "5": [
+      "ref_node",
+      "ref_vite_config_ts",
+      "tsconfig_node",
+      "tsconfig_node_compileroptions",
+      "tsconfig_node_compileroptions_allowimportingtsextensions",
+      "tsconfig_node_compileroptions_erasablesyntaxonly",
+      "tsconfig_node_compileroptions_lib",
+      "tsconfig_node_compileroptions_module",
+      "tsconfig_node_compileroptions_moduledetection",
+      "tsconfig_node_compileroptions_moduleresolution",
+      "tsconfig_node_compileroptions_noemit",
+      "tsconfig_node_compileroptions_nofallthroughcasesinswitch",
+      "tsconfig_node_compileroptions_nouncheckedsideeffectimports",
+      "tsconfig_node_compileroptions_nounusedlocals",
+      "tsconfig_node_compileroptions_nounusedparameters",
+      "tsconfig_node_compileroptions_skiplibcheck",
+      "tsconfig_node_compileroptions_strict",
+      "tsconfig_node_compileroptions_target",
+      "tsconfig_node_compileroptions_tsbuildinfofile",
+      "tsconfig_node_compileroptions_types",
+      "tsconfig_node_compileroptions_verbatimmodulesyntax",
+      "tsconfig_node_include",
+      "tsconfig_node_json_ref_es2023"
+    ],
+    "6": [
+      "components",
+      "components_aliases",
+      "components_aliases_components",
+      "components_aliases_hooks",
+      "components_aliases_lib",
+      "components_aliases_ui",
+      "components_aliases_utils",
+      "components_iconlibrary",
+      "components_menuaccent",
+      "components_menucolor",
+      "components_registries",
+      "components_rsc",
+      "components_rtl",
+      "components_schema",
+      "components_style",
+      "components_tailwind",
+      "components_tailwind_basecolor",
+      "components_tailwind_config",
+      "components_tailwind_css",
+      "components_tailwind_cssvariables",
+      "components_tailwind_prefix",
+      "components_tsx"
+    ],
+    "7": [
+      "src_components_fleetmarker",
+      "src_components_fleetmarker_fleetmarker",
+      "src_components_fleetmarker_fleetmarkerprops",
+      "src_components_fleetoptimization",
+      "src_components_fleetoptimization_constraintbadge",
+      "src_components_fleetoptimization_fleetoptimization",
+      "src_components_fleetoptimization_statusdot",
+      "src_data_fleetmanifest",
+      "src_data_fleetmanifest_distances",
+      "src_data_fleetmanifest_etas",
+      "src_data_fleetmanifest_getoptimizedmanifest",
+      "src_data_fleetmanifest_manifest",
+      "src_data_fleetmanifest_manifestitem",
+      "src_data_fleetmanifest_optimizationdetail",
+      "src_data_fleetmanifest_optimizationdetails",
+      "src_data_fleetmanifest_vehicleassignments",
+      "src_data_fleetmanifest_vehiclecolors",
+      "src_hooks_usefleetoptimization",
+      "src_hooks_usefleetoptimization_usefleetoptimization"
+    ],
+    "8": [
+      "src_app",
+      "src_app_app",
+      "src_app_tab",
+      "src_components_dashboard",
+      "src_components_dashboard_dashboard",
+      "src_components_mapview_mapview",
+      "src_components_sidebar_sidebar",
+      "src_hooks_useaddresssearch",
+      "src_hooks_useaddresssearch_searchresult",
+      "src_hooks_useaddresssearch_useaddresssearch",
+      "src_hooks_usedeliveryroute_usedeliveryroute",
+      "src_main"
+    ],
+    "9": [
+      "package",
+      "package_name",
+      "package_private",
+      "package_scripts",
+      "package_scripts_build",
+      "package_scripts_dev",
+      "package_scripts_lint",
+      "package_scripts_preview",
+      "package_type",
+      "package_version"
+    ],
+    "10": [
+      "tsconfig",
+      "tsconfig_compileroptions",
+      "tsconfig_compileroptions_baseurl",
+      "tsconfig_compileroptions_paths",
+      "tsconfig_files",
+      "tsconfig_references"
+    ],
+    "11": [
+      "src_hooks_usegeolocation",
+      "src_hooks_usegeolocation_geolocationstate",
+      "src_hooks_usegeolocation_usegeolocation"
+    ],
+    "12": [
+      "eslint_config"
+    ],
+    "13": [
+      "vite_config"
+    ]
+  },
+  "cohesion": {
+    "0": 0.14453781512605043,
+    "1": 0.06451612903225806,
+    "2": 0.06666666666666667,
+    "3": 0.06896551724137931,
+    "4": 0.13846153846153847,
+    "5": 0.08695652173913043,
+    "6": 0.09090909090909091,
+    "7": 0.15789473684210525,
+    "8": 0.22727272727272727,
+    "9": 0.2,
+    "10": 0.3333333333333333,
+    "11": 0.6666666666666666,
+    "12": 1.0,
+    "13": 1.0
+  },
+  "gods": [
+    {
+      "id": "src_lib_utils_cn",
+      "label": "cn()",
+      "degree": 25
+    },
+    {
+      "id": "tsconfig_app_compileroptions",
+      "label": "compilerOptions",
+      "degree": 22
+    },
+    {
+      "id": "tsconfig_node_compileroptions",
+      "label": "compilerOptions",
+      "degree": 18
+    },
+    {
+      "id": "src_types_index_mode",
+      "label": "Mode",
+      "degree": 9
+    },
+    {
+      "id": "src_types_index_deliverystop",
+      "label": "DeliveryStop",
+      "degree": 8
+    },
+    {
+      "id": "components_tailwind",
+      "label": "tailwind",
+      "degree": 6
+    },
+    {
+      "id": "components_aliases",
+      "label": "aliases",
+      "degree": 6
+    },
+    {
+      "id": "src_components_ui_badge_badge",
+      "label": "Badge()",
+      "degree": 6
+    },
+    {
+      "id": "src_components_ui_card_card",
+      "label": "Card()",
+      "degree": 6
+    },
+    {
+      "id": "src_components_ui_card_cardcontent",
+      "label": "CardContent()",
+      "degree": 6
+    }
+  ],
+  "surprises": [
+    {
+      "source": "SidebarProps",
+      "target": "SearchResult",
+      "source_files": [
+        "src/components/Sidebar.tsx",
+        "src/hooks/useAddressSearch.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "CardDescription()",
+      "target": "cn()",
+      "source_files": [
+        "src/components/ui/card.tsx",
+        "src/lib/utils.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "peripheral node `CardDescription()` unexpectedly reaches hub `cn()`"
+    },
+    {
+      "source": "CardAction()",
+      "target": "cn()",
+      "source_files": [
+        "src/components/ui/card.tsx",
+        "src/lib/utils.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "peripheral node `CardAction()` unexpectedly reaches hub `cn()`"
+    },
+    {
+      "source": "CardFooter()",
+      "target": "cn()",
+      "source_files": [
+        "src/components/ui/card.tsx",
+        "src/lib/utils.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "peripheral node `CardFooter()` unexpectedly reaches hub `cn()`"
+    },
+    {
+      "source": "ProgressTrack()",
+      "target": "cn()",
+      "source_files": [
+        "src/components/ui/progress.tsx",
+        "src/lib/utils.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "peripheral node `ProgressTrack()` unexpectedly reaches hub `cn()`"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `dependencies` connect `Community 1` to `Community 9`?",
+      "why": "High betweenness centrality (0.052) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `devDependencies` connect `Community 3` to `Community 9`?",
+      "why": "High betweenness centrality (0.050) - this node is a cross-community bridge."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `$schema`, `style`, `rsc` to the rest of the system?",
+      "why": "115 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 0` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.14453781512605043 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 1` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.06451612903225806 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 2` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.06666666666666667 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 3` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.06896551724137931 - nodes in this community are weakly interconnected."
+    }
+  ]
+}
