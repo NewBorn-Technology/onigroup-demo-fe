@@ -11,8 +11,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "components.json",
-      "id": "components",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components"
     },
     {
       "label": "$schema",
@@ -22,8 +22,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "$schema",
-      "id": "components_schema",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_schema"
     },
     {
       "label": "style",
@@ -33,8 +33,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "style",
-      "id": "components_style",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_style"
     },
     {
       "label": "rsc",
@@ -44,8 +44,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "rsc",
-      "id": "components_rsc",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_rsc"
     },
     {
       "label": "tsx",
@@ -55,8 +55,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "tsx",
-      "id": "components_tsx",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_tsx"
     },
     {
       "label": "tailwind",
@@ -66,8 +66,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "tailwind",
-      "id": "components_tailwind",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_tailwind"
     },
     {
       "label": "config",
@@ -77,8 +77,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "config",
-      "id": "components_tailwind_config",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_tailwind_config"
     },
     {
       "label": "css",
@@ -88,8 +88,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "css",
-      "id": "components_tailwind_css",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_tailwind_css"
     },
     {
       "label": "baseColor",
@@ -99,8 +99,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "basecolor",
-      "id": "components_tailwind_basecolor",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_tailwind_basecolor"
     },
     {
       "label": "cssVariables",
@@ -110,8 +110,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "cssvariables",
-      "id": "components_tailwind_cssvariables",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_tailwind_cssvariables"
     },
     {
       "label": "prefix",
@@ -121,8 +121,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "prefix",
-      "id": "components_tailwind_prefix",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_tailwind_prefix"
     },
     {
       "label": "iconLibrary",
@@ -132,8 +132,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "iconlibrary",
-      "id": "components_iconlibrary",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_iconlibrary"
     },
     {
       "label": "rtl",
@@ -143,8 +143,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "rtl",
-      "id": "components_rtl",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_rtl"
     },
     {
       "label": "aliases",
@@ -154,8 +154,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "aliases",
-      "id": "components_aliases",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_aliases"
     },
     {
       "label": "components",
@@ -165,8 +165,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "components",
-      "id": "components_aliases_components",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_aliases_components"
     },
     {
       "label": "utils",
@@ -176,8 +176,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "utils",
-      "id": "components_aliases_utils",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_aliases_utils"
     },
     {
       "label": "ui",
@@ -187,8 +187,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "ui",
-      "id": "components_aliases_ui",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_aliases_ui"
     },
     {
       "label": "lib",
@@ -198,8 +198,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "lib",
-      "id": "components_aliases_lib",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_aliases_lib"
     },
     {
       "label": "hooks",
@@ -209,8 +209,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "hooks",
-      "id": "components_aliases_hooks",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_aliases_hooks"
     },
     {
       "label": "menuColor",
@@ -220,8 +220,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "menucolor",
-      "id": "components_menucolor",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_menucolor"
     },
     {
       "label": "menuAccent",
@@ -231,8 +231,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "menuaccent",
-      "id": "components_menuaccent",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_menuaccent"
     },
     {
       "label": "registries",
@@ -242,8 +242,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "registries",
-      "id": "components_registries",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "components_registries"
     },
     {
       "label": "eslint.config.js",
@@ -253,8 +253,8 @@
       "_origin": "ast",
       "community": 12,
       "norm_label": "eslint.config.js",
-      "id": "eslint_config",
-      "community_name": "Community 12"
+      "community_name": "Community 12",
+      "id": "eslint_config"
     },
     {
       "label": "package.json",
@@ -264,8 +264,8 @@
       "_origin": "ast",
       "community": 9,
       "norm_label": "package.json",
-      "id": "package",
-      "community_name": "Community 9"
+      "community_name": "Community 9",
+      "id": "package"
     },
     {
       "label": "name",
@@ -275,8 +275,8 @@
       "_origin": "ast",
       "community": 9,
       "norm_label": "name",
-      "id": "package_name",
-      "community_name": "Community 9"
+      "community_name": "Community 9",
+      "id": "package_name"
     },
     {
       "label": "private",
@@ -286,8 +286,8 @@
       "_origin": "ast",
       "community": 9,
       "norm_label": "private",
-      "id": "package_private",
-      "community_name": "Community 9"
+      "community_name": "Community 9",
+      "id": "package_private"
     },
     {
       "label": "version",
@@ -297,8 +297,8 @@
       "_origin": "ast",
       "community": 9,
       "norm_label": "version",
-      "id": "package_version",
-      "community_name": "Community 9"
+      "community_name": "Community 9",
+      "id": "package_version"
     },
     {
       "label": "type",
@@ -308,8 +308,8 @@
       "_origin": "ast",
       "community": 9,
       "norm_label": "type",
-      "id": "package_type",
-      "community_name": "Community 9"
+      "community_name": "Community 9",
+      "id": "package_type"
     },
     {
       "label": "scripts",
@@ -319,8 +319,8 @@
       "_origin": "ast",
       "community": 9,
       "norm_label": "scripts",
-      "id": "package_scripts",
-      "community_name": "Community 9"
+      "community_name": "Community 9",
+      "id": "package_scripts"
     },
     {
       "label": "dev",
@@ -330,8 +330,8 @@
       "_origin": "ast",
       "community": 9,
       "norm_label": "dev",
-      "id": "package_scripts_dev",
-      "community_name": "Community 9"
+      "community_name": "Community 9",
+      "id": "package_scripts_dev"
     },
     {
       "label": "build",
@@ -341,8 +341,8 @@
       "_origin": "ast",
       "community": 9,
       "norm_label": "build",
-      "id": "package_scripts_build",
-      "community_name": "Community 9"
+      "community_name": "Community 9",
+      "id": "package_scripts_build"
     },
     {
       "label": "lint",
@@ -352,8 +352,8 @@
       "_origin": "ast",
       "community": 9,
       "norm_label": "lint",
-      "id": "package_scripts_lint",
-      "community_name": "Community 9"
+      "community_name": "Community 9",
+      "id": "package_scripts_lint"
     },
     {
       "label": "preview",
@@ -363,8 +363,8 @@
       "_origin": "ast",
       "community": 9,
       "norm_label": "preview",
-      "id": "package_scripts_preview",
-      "community_name": "Community 9"
+      "community_name": "Community 9",
+      "id": "package_scripts_preview"
     },
     {
       "label": "dependencies",
@@ -374,8 +374,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "dependencies",
-      "id": "package_dependencies",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "package_dependencies"
     },
     {
       "label": "@base-ui/react",
@@ -385,8 +385,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "@base-ui/react",
-      "id": "package_dependencies_base_ui_react",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "package_dependencies_base_ui_react"
     },
     {
       "label": "@base-ui/react",
@@ -396,8 +396,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "@base-ui/react",
-      "id": "base_ui_react",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "base_ui_react"
     },
     {
       "label": "@fontsource-variable/geist",
@@ -407,8 +407,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "@fontsource-variable/geist",
-      "id": "package_dependencies_fontsource_variable_geist",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "package_dependencies_fontsource_variable_geist"
     },
     {
       "label": "@fontsource-variable/geist",
@@ -418,8 +418,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "@fontsource-variable/geist",
-      "id": "fontsource_variable_geist",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "fontsource_variable_geist"
     },
     {
       "label": "@tailwindcss/vite",
@@ -429,8 +429,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "@tailwindcss/vite",
-      "id": "package_dependencies_tailwindcss_vite",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "package_dependencies_tailwindcss_vite"
     },
     {
       "label": "@tailwindcss/vite",
@@ -440,8 +440,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "@tailwindcss/vite",
-      "id": "tailwindcss_vite",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "tailwindcss_vite"
     },
     {
       "label": "@vis.gl/react-google-maps",
@@ -451,8 +451,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "@vis.gl/react-google-maps",
-      "id": "package_dependencies_vis_gl_react_google_maps",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "package_dependencies_vis_gl_react_google_maps"
     },
     {
       "label": "@vis.gl/react-google-maps",
@@ -462,8 +462,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "@vis.gl/react-google-maps",
-      "id": "vis_gl_react_google_maps",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "vis_gl_react_google_maps"
     },
     {
       "label": "class-variance-authority",
@@ -473,8 +473,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "class-variance-authority",
-      "id": "package_dependencies_class_variance_authority",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "package_dependencies_class_variance_authority"
     },
     {
       "label": "class-variance-authority",
@@ -484,8 +484,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "class-variance-authority",
-      "id": "class_variance_authority",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "class_variance_authority"
     },
     {
       "label": "clsx",
@@ -495,8 +495,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "clsx",
-      "id": "package_dependencies_clsx",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "package_dependencies_clsx"
     },
     {
       "label": "clsx",
@@ -506,8 +506,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "clsx",
-      "id": "clsx",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "clsx"
     },
     {
       "label": "leaflet",
@@ -517,8 +517,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "leaflet",
-      "id": "package_dependencies_leaflet",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "package_dependencies_leaflet"
     },
     {
       "label": "leaflet",
@@ -528,8 +528,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "leaflet",
-      "id": "leaflet",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "leaflet"
     },
     {
       "label": "lucide-react",
@@ -539,8 +539,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "lucide-react",
-      "id": "package_dependencies_lucide_react",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "package_dependencies_lucide_react"
     },
     {
       "label": "lucide-react",
@@ -550,8 +550,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "lucide-react",
-      "id": "lucide_react",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "lucide_react"
     },
     {
       "label": "react",
@@ -561,8 +561,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "react",
-      "id": "package_dependencies_react",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "package_dependencies_react"
     },
     {
       "label": "react",
@@ -572,8 +572,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "react",
-      "id": "react",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "react"
     },
     {
       "label": "react-dom",
@@ -583,8 +583,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "react-dom",
-      "id": "package_dependencies_react_dom",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "package_dependencies_react_dom"
     },
     {
       "label": "react-dom",
@@ -594,8 +594,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "react-dom",
-      "id": "react_dom",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "react_dom"
     },
     {
       "label": "react-leaflet",
@@ -605,8 +605,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "react-leaflet",
-      "id": "package_dependencies_react_leaflet",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "package_dependencies_react_leaflet"
     },
     {
       "label": "react-leaflet",
@@ -616,8 +616,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "react-leaflet",
-      "id": "react_leaflet",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "react_leaflet"
     },
     {
       "label": "shadcn",
@@ -627,8 +627,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "shadcn",
-      "id": "package_dependencies_shadcn",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "package_dependencies_shadcn"
     },
     {
       "label": "shadcn",
@@ -638,8 +638,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "shadcn",
-      "id": "shadcn",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "shadcn"
     },
     {
       "label": "tailwind-merge",
@@ -649,8 +649,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "tailwind-merge",
-      "id": "package_dependencies_tailwind_merge",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "package_dependencies_tailwind_merge"
     },
     {
       "label": "tailwind-merge",
@@ -660,8 +660,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "tailwind-merge",
-      "id": "tailwind_merge",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "tailwind_merge"
     },
     {
       "label": "tailwindcss",
@@ -671,8 +671,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "tailwindcss",
-      "id": "package_dependencies_tailwindcss",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "package_dependencies_tailwindcss"
     },
     {
       "label": "tailwindcss",
@@ -682,8 +682,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "tailwindcss",
-      "id": "tailwindcss",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "tailwindcss"
     },
     {
       "label": "tw-animate-css",
@@ -693,8 +693,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "tw-animate-css",
-      "id": "package_dependencies_tw_animate_css",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "package_dependencies_tw_animate_css"
     },
     {
       "label": "tw-animate-css",
@@ -704,8 +704,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "tw-animate-css",
-      "id": "tw_animate_css",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "tw_animate_css"
     },
     {
       "label": "devDependencies",
@@ -715,8 +715,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "devdependencies",
-      "id": "package_devdependencies",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies"
     },
     {
       "label": "@eslint/js",
@@ -726,8 +726,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@eslint/js",
-      "id": "package_devdependencies_eslint_js",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_eslint_js"
     },
     {
       "label": "@eslint/js",
@@ -737,8 +737,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@eslint/js",
-      "id": "eslint_js",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "eslint_js"
     },
     {
       "label": "@types/google.maps",
@@ -748,8 +748,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@types/google.maps",
-      "id": "package_devdependencies_types_google_maps",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_types_google_maps"
     },
     {
       "label": "@types/google.maps",
@@ -759,8 +759,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@types/google.maps",
-      "id": "types_google_maps",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "types_google_maps"
     },
     {
       "label": "@types/leaflet",
@@ -770,8 +770,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@types/leaflet",
-      "id": "package_devdependencies_types_leaflet",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_types_leaflet"
     },
     {
       "label": "@types/leaflet",
@@ -781,8 +781,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@types/leaflet",
-      "id": "types_leaflet",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "types_leaflet"
     },
     {
       "label": "@types/node",
@@ -792,8 +792,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@types/node",
-      "id": "package_devdependencies_types_node",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_types_node"
     },
     {
       "label": "@types/node",
@@ -803,8 +803,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@types/node",
-      "id": "types_node",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "types_node"
     },
     {
       "label": "@types/react",
@@ -814,8 +814,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@types/react",
-      "id": "package_devdependencies_types_react",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_types_react"
     },
     {
       "label": "@types/react",
@@ -825,8 +825,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@types/react",
-      "id": "types_react",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "types_react"
     },
     {
       "label": "@types/react-dom",
@@ -836,8 +836,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@types/react-dom",
-      "id": "package_devdependencies_types_react_dom",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_types_react_dom"
     },
     {
       "label": "@types/react-dom",
@@ -847,8 +847,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@types/react-dom",
-      "id": "types_react_dom",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "types_react_dom"
     },
     {
       "label": "@vitejs/plugin-react",
@@ -858,8 +858,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@vitejs/plugin-react",
-      "id": "package_devdependencies_vitejs_plugin_react",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_vitejs_plugin_react"
     },
     {
       "label": "@vitejs/plugin-react",
@@ -869,8 +869,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@vitejs/plugin-react",
-      "id": "vitejs_plugin_react",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "vitejs_plugin_react"
     },
     {
       "label": "eslint",
@@ -880,8 +880,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "eslint",
-      "id": "package_devdependencies_eslint",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_eslint"
     },
     {
       "label": "eslint",
@@ -891,8 +891,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "eslint",
-      "id": "eslint",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "eslint"
     },
     {
       "label": "eslint-plugin-react-hooks",
@@ -902,8 +902,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "eslint-plugin-react-hooks",
-      "id": "package_devdependencies_eslint_plugin_react_hooks",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_eslint_plugin_react_hooks"
     },
     {
       "label": "eslint-plugin-react-hooks",
@@ -913,8 +913,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "eslint-plugin-react-hooks",
-      "id": "eslint_plugin_react_hooks",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "eslint_plugin_react_hooks"
     },
     {
       "label": "eslint-plugin-react-refresh",
@@ -924,8 +924,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "eslint-plugin-react-refresh",
-      "id": "package_devdependencies_eslint_plugin_react_refresh",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_eslint_plugin_react_refresh"
     },
     {
       "label": "eslint-plugin-react-refresh",
@@ -935,8 +935,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "eslint-plugin-react-refresh",
-      "id": "eslint_plugin_react_refresh",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "eslint_plugin_react_refresh"
     },
     {
       "label": "globals",
@@ -946,8 +946,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "globals",
-      "id": "package_devdependencies_globals",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_globals"
     },
     {
       "label": "globals",
@@ -957,8 +957,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "globals",
-      "id": "globals",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "globals"
     },
     {
       "label": "typescript",
@@ -968,8 +968,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "typescript",
-      "id": "package_devdependencies_typescript",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_typescript"
     },
     {
       "label": "typescript",
@@ -979,8 +979,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "typescript",
-      "id": "typescript",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "typescript"
     },
     {
       "label": "typescript-eslint",
@@ -990,8 +990,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "typescript-eslint",
-      "id": "package_devdependencies_typescript_eslint",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_typescript_eslint"
     },
     {
       "label": "typescript-eslint",
@@ -1001,8 +1001,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "typescript-eslint",
-      "id": "typescript_eslint",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "typescript_eslint"
     },
     {
       "label": "vite",
@@ -1012,8 +1012,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "vite",
-      "id": "package_devdependencies_vite",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_vite"
     },
     {
       "label": "vite",
@@ -1023,8 +1023,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "vite",
-      "id": "vite",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "vite"
     },
     {
       "label": "App.tsx",
@@ -1034,8 +1034,8 @@
       "_origin": "ast",
       "community": 8,
       "norm_label": "app.tsx",
-      "id": "src_app",
-      "community_name": "Community 8"
+      "community_name": "Community 8",
+      "id": "src_app"
     },
     {
       "label": "Tab",
@@ -1045,8 +1045,8 @@
       "_origin": "ast",
       "community": 8,
       "norm_label": "tab",
-      "id": "src_app_tab",
-      "community_name": "Community 8"
+      "community_name": "Community 8",
+      "id": "src_app_tab"
     },
     {
       "label": "App()",
@@ -1056,8 +1056,8 @@
       "_origin": "ast",
       "community": 8,
       "norm_label": "app()",
-      "id": "src_app_app",
-      "community_name": "Community 8"
+      "community_name": "Community 8",
+      "id": "src_app_app"
     },
     {
       "label": "CostTracker.tsx",
@@ -1067,8 +1067,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "costtracker.tsx",
-      "id": "src_components_costtracker",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_costtracker"
     },
     {
       "label": "CostTrackerProps",
@@ -1078,8 +1078,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "costtrackerprops",
-      "id": "src_components_costtracker_costtrackerprops",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_costtracker_costtrackerprops"
     },
     {
       "label": "CostTracker()",
@@ -1089,8 +1089,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "costtracker()",
-      "id": "src_components_costtracker_costtracker",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_costtracker_costtracker"
     },
     {
       "label": "Dashboard.tsx",
@@ -1100,8 +1100,8 @@
       "_origin": "ast",
       "community": 8,
       "norm_label": "dashboard.tsx",
-      "id": "src_components_dashboard",
-      "community_name": "Community 8"
+      "community_name": "Community 8",
+      "id": "src_components_dashboard"
     },
     {
       "label": "Dashboard()",
@@ -1111,8 +1111,8 @@
       "_origin": "ast",
       "community": 8,
       "norm_label": "dashboard()",
-      "id": "src_components_dashboard_dashboard",
-      "community_name": "Community 8"
+      "community_name": "Community 8",
+      "id": "src_components_dashboard_dashboard"
     },
     {
       "label": "DeliveryMarker.tsx",
@@ -1122,8 +1122,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "deliverymarker.tsx",
-      "id": "src_components_deliverymarker",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_components_deliverymarker"
     },
     {
       "label": "DeliveryMarkerProps",
@@ -1133,8 +1133,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "deliverymarkerprops",
-      "id": "src_components_deliverymarker_deliverymarkerprops",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_components_deliverymarker_deliverymarkerprops"
     },
     {
       "label": "DeliveryMarker()",
@@ -1144,8 +1144,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "deliverymarker()",
-      "id": "src_components_deliverymarker_deliverymarker",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_components_deliverymarker_deliverymarker"
     },
     {
       "label": "FleetMapView.tsx",
@@ -1155,8 +1155,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "fleetmapview.tsx",
-      "id": "src_components_fleetmapview",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_components_fleetmapview"
     },
     {
       "label": "JAKARTA_CENTER",
@@ -1166,8 +1166,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "jakarta_center",
-      "id": "src_components_fleetmapview_jakarta_center",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_components_fleetmapview_jakarta_center"
     },
     {
       "label": "FleetMarkerProps",
@@ -1177,8 +1177,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "fleetmarkerprops",
-      "id": "src_components_fleetmapview_fleetmarkerprops",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_components_fleetmapview_fleetmarkerprops"
     },
     {
       "label": "FleetMarker()",
@@ -1188,8 +1188,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "fleetmarker()",
-      "id": "src_components_fleetmapview_fleetmarker",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_components_fleetmapview_fleetmarker"
     },
     {
       "label": "ManifestStop",
@@ -1199,8 +1199,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "manifeststop",
-      "id": "src_components_fleetmapview_manifeststop",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_components_fleetmapview_manifeststop"
     },
     {
       "label": "FleetMapViewProps",
@@ -1210,8 +1210,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "fleetmapviewprops",
-      "id": "src_components_fleetmapview_fleetmapviewprops",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_components_fleetmapview_fleetmapviewprops"
     },
     {
       "label": "FleetMapView()",
@@ -1221,8 +1221,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "fleetmapview()",
-      "id": "src_components_fleetmapview_fleetmapview",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_components_fleetmapview_fleetmapview"
     },
     {
       "label": "FleetMarker.tsx",
@@ -1232,8 +1232,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "fleetmarker.tsx",
-      "id": "src_components_fleetmarker",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "src_components_fleetmarker"
     },
     {
       "label": "FleetMarkerProps",
@@ -1243,8 +1243,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "fleetmarkerprops",
-      "id": "src_components_fleetmarker_fleetmarkerprops",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "src_components_fleetmarker_fleetmarkerprops"
     },
     {
       "label": "FleetMarker()",
@@ -1254,8 +1254,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "fleetmarker()",
-      "id": "src_components_fleetmarker_fleetmarker",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "src_components_fleetmarker_fleetmarker"
     },
     {
       "label": "FleetOptimization.tsx",
@@ -1265,8 +1265,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "fleetoptimization.tsx",
-      "id": "src_components_fleetoptimization",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "src_components_fleetoptimization"
     },
     {
       "label": "ConstraintBadge()",
@@ -1276,8 +1276,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "constraintbadge()",
-      "id": "src_components_fleetoptimization_constraintbadge",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "src_components_fleetoptimization_constraintbadge"
     },
     {
       "label": "StatusDot()",
@@ -1287,8 +1287,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "statusdot()",
-      "id": "src_components_fleetoptimization_statusdot",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "src_components_fleetoptimization_statusdot"
     },
     {
       "label": "FleetOptimization()",
@@ -1298,8 +1298,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "fleetoptimization()",
-      "id": "src_components_fleetoptimization_fleetoptimization",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "src_components_fleetoptimization_fleetoptimization"
     },
     {
       "label": "FleetSidebar.tsx",
@@ -1309,8 +1309,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "fleetsidebar.tsx",
-      "id": "src_components_fleetsidebar",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_fleetsidebar"
     },
     {
       "label": "FleetSidebarProps",
@@ -1320,8 +1320,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "fleetsidebarprops",
-      "id": "src_components_fleetsidebar_fleetsidebarprops",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_components_fleetsidebar_fleetsidebarprops"
     },
     {
       "label": "ConstraintBadge()",
@@ -1331,8 +1331,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "constraintbadge()",
-      "id": "src_components_fleetsidebar_constraintbadge",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_fleetsidebar_constraintbadge"
     },
     {
       "label": "FleetSidebar()",
@@ -1342,8 +1342,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "fleetsidebar()",
-      "id": "src_components_fleetsidebar_fleetsidebar",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_fleetsidebar_fleetsidebar"
     },
     {
       "label": "MapView.tsx",
@@ -1353,8 +1353,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "mapview.tsx",
-      "id": "src_components_mapview",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_components_mapview"
     },
     {
       "label": "MapViewProps",
@@ -1364,8 +1364,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "mapviewprops",
-      "id": "src_components_mapview_mapviewprops",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_components_mapview_mapviewprops"
     },
     {
       "label": "MapView()",
@@ -1375,8 +1375,8 @@
       "_origin": "ast",
       "community": 8,
       "norm_label": "mapview()",
-      "id": "src_components_mapview_mapview",
-      "community_name": "Community 8"
+      "community_name": "Community 8",
+      "id": "src_components_mapview_mapview"
     },
     {
       "label": "Polyline.tsx",
@@ -1386,8 +1386,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "polyline.tsx",
-      "id": "src_components_polyline",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_components_polyline"
     },
     {
       "label": "PolylineProps",
@@ -1397,8 +1397,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "polylineprops",
-      "id": "src_components_polyline_polylineprops",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_components_polyline_polylineprops"
     },
     {
       "label": "Polyline()",
@@ -1408,8 +1408,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "polyline()",
-      "id": "src_components_polyline_polyline",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_components_polyline_polyline"
     },
     {
       "label": "Sidebar.tsx",
@@ -1419,8 +1419,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "sidebar.tsx",
-      "id": "src_components_sidebar",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_sidebar"
     },
     {
       "label": "SidebarProps",
@@ -1430,8 +1430,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "sidebarprops",
-      "id": "src_components_sidebar_sidebarprops",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_components_sidebar_sidebarprops"
     },
     {
       "label": "Sidebar()",
@@ -1441,8 +1441,8 @@
       "_origin": "ast",
       "community": 8,
       "norm_label": "sidebar()",
-      "id": "src_components_sidebar_sidebar",
-      "community_name": "Community 8"
+      "community_name": "Community 8",
+      "id": "src_components_sidebar_sidebar"
     },
     {
       "label": "badge.tsx",
@@ -1452,8 +1452,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "badge.tsx",
-      "id": "src_components_ui_badge",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_badge"
     },
     {
       "label": "badgeVariants",
@@ -1463,8 +1463,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "badgevariants",
-      "id": "src_components_ui_badge_badgevariants",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_badge_badgevariants"
     },
     {
       "label": "Badge()",
@@ -1474,8 +1474,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "badge()",
-      "id": "src_components_ui_badge_badge",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_badge_badge"
     },
     {
       "label": "button.tsx",
@@ -1485,8 +1485,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "button.tsx",
-      "id": "src_components_ui_button",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_button"
     },
     {
       "label": "buttonVariants",
@@ -1496,8 +1496,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "buttonvariants",
-      "id": "src_components_ui_button_buttonvariants",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_button_buttonvariants"
     },
     {
       "label": "Button()",
@@ -1507,8 +1507,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "button()",
-      "id": "src_components_ui_button_button",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_button_button"
     },
     {
       "label": "card.tsx",
@@ -1518,8 +1518,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "card.tsx",
-      "id": "src_components_ui_card",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_card"
     },
     {
       "label": "Card()",
@@ -1529,8 +1529,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "card()",
-      "id": "src_components_ui_card_card",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_card_card"
     },
     {
       "label": "CardHeader()",
@@ -1540,8 +1540,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "cardheader()",
-      "id": "src_components_ui_card_cardheader",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_card_cardheader"
     },
     {
       "label": "CardTitle()",
@@ -1551,8 +1551,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "cardtitle()",
-      "id": "src_components_ui_card_cardtitle",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_card_cardtitle"
     },
     {
       "label": "CardDescription()",
@@ -1562,8 +1562,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "carddescription()",
-      "id": "src_components_ui_card_carddescription",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_card_carddescription"
     },
     {
       "label": "CardAction()",
@@ -1573,8 +1573,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "cardaction()",
-      "id": "src_components_ui_card_cardaction",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_card_cardaction"
     },
     {
       "label": "CardContent()",
@@ -1584,8 +1584,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "cardcontent()",
-      "id": "src_components_ui_card_cardcontent",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_card_cardcontent"
     },
     {
       "label": "CardFooter()",
@@ -1595,8 +1595,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "cardfooter()",
-      "id": "src_components_ui_card_cardfooter",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_card_cardfooter"
     },
     {
       "label": "input.tsx",
@@ -1606,8 +1606,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "input.tsx",
-      "id": "src_components_ui_input",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_input"
     },
     {
       "label": "Input()",
@@ -1617,8 +1617,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "input()",
-      "id": "src_components_ui_input_input",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_input_input"
     },
     {
       "label": "progress.tsx",
@@ -1628,8 +1628,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "progress.tsx",
-      "id": "src_components_ui_progress",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_progress"
     },
     {
       "label": "Progress()",
@@ -1639,8 +1639,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "progress()",
-      "id": "src_components_ui_progress_progress",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_progress_progress"
     },
     {
       "label": "ProgressTrack()",
@@ -1650,8 +1650,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "progresstrack()",
-      "id": "src_components_ui_progress_progresstrack",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_progress_progresstrack"
     },
     {
       "label": "ProgressIndicator()",
@@ -1661,8 +1661,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "progressindicator()",
-      "id": "src_components_ui_progress_progressindicator",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_progress_progressindicator"
     },
     {
       "label": "ProgressLabel()",
@@ -1672,8 +1672,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "progresslabel()",
-      "id": "src_components_ui_progress_progresslabel",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_progress_progresslabel"
     },
     {
       "label": "ProgressValue()",
@@ -1683,8 +1683,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "progressvalue()",
-      "id": "src_components_ui_progress_progressvalue",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_progress_progressvalue"
     },
     {
       "label": "separator.tsx",
@@ -1694,8 +1694,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "separator.tsx",
-      "id": "src_components_ui_separator",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_separator"
     },
     {
       "label": "Separator()",
@@ -1705,8 +1705,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "separator()",
-      "id": "src_components_ui_separator_separator",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_separator_separator"
     },
     {
       "label": "switch.tsx",
@@ -1716,8 +1716,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "switch.tsx",
-      "id": "src_components_ui_switch",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_switch"
     },
     {
       "label": "Switch()",
@@ -1727,8 +1727,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "switch()",
-      "id": "src_components_ui_switch_switch",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_components_ui_switch_switch"
     },
     {
       "label": "fleetManifest.ts",
@@ -1738,8 +1738,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "fleetmanifest.ts",
-      "id": "src_data_fleetmanifest",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "src_data_fleetmanifest"
     },
     {
       "label": "ManifestItem",
@@ -1749,8 +1749,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "manifestitem",
-      "id": "src_data_fleetmanifest_manifestitem",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "src_data_fleetmanifest_manifestitem"
     },
     {
       "label": "manifest",
@@ -1760,8 +1760,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "manifest",
-      "id": "src_data_fleetmanifest_manifest",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "src_data_fleetmanifest_manifest"
     },
     {
       "label": "vehicleAssignments",
@@ -1771,8 +1771,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "vehicleassignments",
-      "id": "src_data_fleetmanifest_vehicleassignments",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "src_data_fleetmanifest_vehicleassignments"
     },
     {
       "label": "distances",
@@ -1782,8 +1782,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "distances",
-      "id": "src_data_fleetmanifest_distances",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "src_data_fleetmanifest_distances"
     },
     {
       "label": "etas",
@@ -1793,8 +1793,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "etas",
-      "id": "src_data_fleetmanifest_etas",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "src_data_fleetmanifest_etas"
     },
     {
       "label": "vehicleColors",
@@ -1804,8 +1804,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "vehiclecolors",
-      "id": "src_data_fleetmanifest_vehiclecolors",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "src_data_fleetmanifest_vehiclecolors"
     },
     {
       "label": "OptimizationDetail",
@@ -1815,8 +1815,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "optimizationdetail",
-      "id": "src_data_fleetmanifest_optimizationdetail",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "src_data_fleetmanifest_optimizationdetail"
     },
     {
       "label": "optimizationDetails",
@@ -1826,8 +1826,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "optimizationdetails",
-      "id": "src_data_fleetmanifest_optimizationdetails",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "src_data_fleetmanifest_optimizationdetails"
     },
     {
       "label": "getOptimizedManifest()",
@@ -1837,8 +1837,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "getoptimizedmanifest()",
-      "id": "src_data_fleetmanifest_getoptimizedmanifest",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "src_data_fleetmanifest_getoptimizedmanifest"
     },
     {
       "label": "useAddressSearch.ts",
@@ -1848,8 +1848,8 @@
       "_origin": "ast",
       "community": 8,
       "norm_label": "useaddresssearch.ts",
-      "id": "src_hooks_useaddresssearch",
-      "community_name": "Community 8"
+      "community_name": "Community 8",
+      "id": "src_hooks_useaddresssearch"
     },
     {
       "label": "SearchResult",
@@ -1859,8 +1859,8 @@
       "_origin": "ast",
       "community": 8,
       "norm_label": "searchresult",
-      "id": "src_hooks_useaddresssearch_searchresult",
-      "community_name": "Community 8"
+      "community_name": "Community 8",
+      "id": "src_hooks_useaddresssearch_searchresult"
     },
     {
       "label": "useAddressSearch()",
@@ -1870,8 +1870,8 @@
       "_origin": "ast",
       "community": 8,
       "norm_label": "useaddresssearch()",
-      "id": "src_hooks_useaddresssearch_useaddresssearch",
-      "community_name": "Community 8"
+      "community_name": "Community 8",
+      "id": "src_hooks_useaddresssearch_useaddresssearch"
     },
     {
       "label": "useCostSimulation.ts",
@@ -1881,8 +1881,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "usecostsimulation.ts",
-      "id": "src_hooks_usecostsimulation",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_hooks_usecostsimulation"
     },
     {
       "label": "useCostSimulation()",
@@ -1892,8 +1892,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "usecostsimulation()",
-      "id": "src_hooks_usecostsimulation_usecostsimulation",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_hooks_usecostsimulation_usecostsimulation"
     },
     {
       "label": "useDeliveryRoute.ts",
@@ -1903,8 +1903,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "usedeliveryroute.ts",
-      "id": "src_hooks_usedeliveryroute",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_hooks_usedeliveryroute"
     },
     {
       "label": "useDeliveryRoute()",
@@ -1914,8 +1914,8 @@
       "_origin": "ast",
       "community": 8,
       "norm_label": "usedeliveryroute()",
-      "id": "src_hooks_usedeliveryroute_usedeliveryroute",
-      "community_name": "Community 8"
+      "community_name": "Community 8",
+      "id": "src_hooks_usedeliveryroute_usedeliveryroute"
     },
     {
       "label": "useFleetOptimization.ts",
@@ -1925,8 +1925,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "usefleetoptimization.ts",
-      "id": "src_hooks_usefleetoptimization",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "src_hooks_usefleetoptimization"
     },
     {
       "label": "useFleetOptimization()",
@@ -1936,8 +1936,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "usefleetoptimization()",
-      "id": "src_hooks_usefleetoptimization_usefleetoptimization",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "src_hooks_usefleetoptimization_usefleetoptimization"
     },
     {
       "label": "useGeolocation.ts",
@@ -1947,8 +1947,8 @@
       "_origin": "ast",
       "community": 11,
       "norm_label": "usegeolocation.ts",
-      "id": "src_hooks_usegeolocation",
-      "community_name": "Community 11"
+      "community_name": "Community 11",
+      "id": "src_hooks_usegeolocation"
     },
     {
       "label": "GeolocationState",
@@ -1958,8 +1958,8 @@
       "_origin": "ast",
       "community": 11,
       "norm_label": "geolocationstate",
-      "id": "src_hooks_usegeolocation_geolocationstate",
-      "community_name": "Community 11"
+      "community_name": "Community 11",
+      "id": "src_hooks_usegeolocation_geolocationstate"
     },
     {
       "label": "useGeolocation()",
@@ -1969,8 +1969,8 @@
       "_origin": "ast",
       "community": 11,
       "norm_label": "usegeolocation()",
-      "id": "src_hooks_usegeolocation_usegeolocation",
-      "community_name": "Community 11"
+      "community_name": "Community 11",
+      "id": "src_hooks_usegeolocation_usegeolocation"
     },
     {
       "label": "utils.ts",
@@ -1980,8 +1980,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "utils.ts",
-      "id": "src_lib_utils",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_lib_utils"
     },
     {
       "label": "cn()",
@@ -1991,8 +1991,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "cn()",
-      "id": "src_lib_utils_cn",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "src_lib_utils_cn"
     },
     {
       "label": "main.tsx",
@@ -2002,8 +2002,8 @@
       "_origin": "ast",
       "community": 8,
       "norm_label": "main.tsx",
-      "id": "src_main",
-      "community_name": "Community 8"
+      "community_name": "Community 8",
+      "id": "src_main"
     },
     {
       "label": "index.ts",
@@ -2013,8 +2013,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "index.ts",
-      "id": "src_types_index",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_types_index"
     },
     {
       "label": "DeliveryStop",
@@ -2024,8 +2024,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "deliverystop",
-      "id": "src_types_index_deliverystop",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_types_index_deliverystop"
     },
     {
       "label": "Mode",
@@ -2035,8 +2035,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "mode",
-      "id": "src_types_index_mode",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_types_index_mode"
     },
     {
       "label": "CostState",
@@ -2046,8 +2046,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "coststate",
-      "id": "src_types_index_coststate",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_types_index_coststate"
     },
     {
       "label": "FleetRoute",
@@ -2057,8 +2057,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "fleetroute",
-      "id": "src_types_index_fleetroute",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_types_index_fleetroute"
     },
     {
       "label": "FleetOptimizationResult",
@@ -2068,8 +2068,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "fleetoptimizationresult",
-      "id": "src_types_index_fleetoptimizationresult",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "src_types_index_fleetoptimizationresult"
     },
     {
       "label": "tsconfig.app.json",
@@ -2079,8 +2079,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "tsconfig.app.json",
-      "id": "tsconfig_app",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app"
     },
     {
       "label": "compilerOptions",
@@ -2090,8 +2090,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "compileroptions",
-      "id": "tsconfig_app_compileroptions",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions"
     },
     {
       "label": "tsBuildInfoFile",
@@ -2101,8 +2101,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "tsbuildinfofile",
-      "id": "tsconfig_app_compileroptions_tsbuildinfofile",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_tsbuildinfofile"
     },
     {
       "label": "target",
@@ -2112,8 +2112,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "target",
-      "id": "tsconfig_app_compileroptions_target",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_target"
     },
     {
       "label": "useDefineForClassFields",
@@ -2123,8 +2123,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "usedefineforclassfields",
-      "id": "tsconfig_app_compileroptions_usedefineforclassfields",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_usedefineforclassfields"
     },
     {
       "label": "lib",
@@ -2134,8 +2134,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "lib",
-      "id": "tsconfig_app_compileroptions_lib",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_lib"
     },
     {
       "label": "ES2023",
@@ -2145,8 +2145,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "es2023",
-      "id": "tsconfig_app_json_ref_es2023",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_json_ref_es2023"
     },
     {
       "label": "DOM",
@@ -2156,8 +2156,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "dom",
-      "id": "ref_dom",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "ref_dom"
     },
     {
       "label": "DOM.Iterable",
@@ -2167,8 +2167,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "dom.iterable",
-      "id": "ref_dom_iterable",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "ref_dom_iterable"
     },
     {
       "label": "module",
@@ -2178,8 +2178,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "module",
-      "id": "tsconfig_app_compileroptions_module",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_module"
     },
     {
       "label": "types",
@@ -2189,8 +2189,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "types",
-      "id": "tsconfig_app_compileroptions_types",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_types"
     },
     {
       "label": "vite/client",
@@ -2200,8 +2200,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "vite/client",
-      "id": "ref_vite_client",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "ref_vite_client"
     },
     {
       "label": "google.maps",
@@ -2211,8 +2211,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "google.maps",
-      "id": "ref_google_maps",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "ref_google_maps"
     },
     {
       "label": "skipLibCheck",
@@ -2222,8 +2222,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "skiplibcheck",
-      "id": "tsconfig_app_compileroptions_skiplibcheck",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_skiplibcheck"
     },
     {
       "label": "moduleResolution",
@@ -2233,8 +2233,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "moduleresolution",
-      "id": "tsconfig_app_compileroptions_moduleresolution",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_moduleresolution"
     },
     {
       "label": "allowImportingTsExtensions",
@@ -2244,8 +2244,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "allowimportingtsextensions",
-      "id": "tsconfig_app_compileroptions_allowimportingtsextensions",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_allowimportingtsextensions"
     },
     {
       "label": "verbatimModuleSyntax",
@@ -2255,8 +2255,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "verbatimmodulesyntax",
-      "id": "tsconfig_app_compileroptions_verbatimmodulesyntax",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_verbatimmodulesyntax"
     },
     {
       "label": "moduleDetection",
@@ -2266,8 +2266,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "moduledetection",
-      "id": "tsconfig_app_compileroptions_moduledetection",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_moduledetection"
     },
     {
       "label": "noEmit",
@@ -2277,8 +2277,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "noemit",
-      "id": "tsconfig_app_compileroptions_noemit",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_noemit"
     },
     {
       "label": "jsx",
@@ -2288,8 +2288,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "jsx",
-      "id": "tsconfig_app_compileroptions_jsx",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_jsx"
     },
     {
       "label": "strict",
@@ -2299,8 +2299,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "strict",
-      "id": "tsconfig_app_compileroptions_strict",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_strict"
     },
     {
       "label": "noUnusedLocals",
@@ -2310,8 +2310,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "nounusedlocals",
-      "id": "tsconfig_app_compileroptions_nounusedlocals",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_nounusedlocals"
     },
     {
       "label": "noUnusedParameters",
@@ -2321,8 +2321,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "nounusedparameters",
-      "id": "tsconfig_app_compileroptions_nounusedparameters",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_nounusedparameters"
     },
     {
       "label": "erasableSyntaxOnly",
@@ -2332,8 +2332,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "erasablesyntaxonly",
-      "id": "tsconfig_app_compileroptions_erasablesyntaxonly",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_erasablesyntaxonly"
     },
     {
       "label": "noFallthroughCasesInSwitch",
@@ -2343,8 +2343,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "nofallthroughcasesinswitch",
-      "id": "tsconfig_app_compileroptions_nofallthroughcasesinswitch",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_nofallthroughcasesinswitch"
     },
     {
       "label": "noUncheckedSideEffectImports",
@@ -2354,8 +2354,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "nouncheckedsideeffectimports",
-      "id": "tsconfig_app_compileroptions_nouncheckedsideeffectimports",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_nouncheckedsideeffectimports"
     },
     {
       "label": "baseUrl",
@@ -2365,8 +2365,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "baseurl",
-      "id": "tsconfig_app_compileroptions_baseurl",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_baseurl"
     },
     {
       "label": "paths",
@@ -2376,8 +2376,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "paths",
-      "id": "tsconfig_app_compileroptions_paths",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_compileroptions_paths"
     },
     {
       "label": "include",
@@ -2387,8 +2387,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "include",
-      "id": "tsconfig_app_include",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_app_include"
     },
     {
       "label": "src",
@@ -2398,8 +2398,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "src",
-      "id": "ref_src",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "ref_src"
     },
     {
       "label": "tsconfig.json",
@@ -2409,8 +2409,8 @@
       "_origin": "ast",
       "community": 10,
       "norm_label": "tsconfig.json",
-      "id": "tsconfig",
-      "community_name": "Community 10"
+      "community_name": "Community 10",
+      "id": "tsconfig"
     },
     {
       "label": "compilerOptions",
@@ -2420,8 +2420,8 @@
       "_origin": "ast",
       "community": 10,
       "norm_label": "compileroptions",
-      "id": "tsconfig_compileroptions",
-      "community_name": "Community 10"
+      "community_name": "Community 10",
+      "id": "tsconfig_compileroptions"
     },
     {
       "label": "baseUrl",
@@ -2431,8 +2431,8 @@
       "_origin": "ast",
       "community": 10,
       "norm_label": "baseurl",
-      "id": "tsconfig_compileroptions_baseurl",
-      "community_name": "Community 10"
+      "community_name": "Community 10",
+      "id": "tsconfig_compileroptions_baseurl"
     },
     {
       "label": "paths",
@@ -2442,8 +2442,8 @@
       "_origin": "ast",
       "community": 10,
       "norm_label": "paths",
-      "id": "tsconfig_compileroptions_paths",
-      "community_name": "Community 10"
+      "community_name": "Community 10",
+      "id": "tsconfig_compileroptions_paths"
     },
     {
       "label": "files",
@@ -2453,8 +2453,8 @@
       "_origin": "ast",
       "community": 10,
       "norm_label": "files",
-      "id": "tsconfig_files",
-      "community_name": "Community 10"
+      "community_name": "Community 10",
+      "id": "tsconfig_files"
     },
     {
       "label": "references",
@@ -2464,8 +2464,8 @@
       "_origin": "ast",
       "community": 10,
       "norm_label": "references",
-      "id": "tsconfig_references",
-      "community_name": "Community 10"
+      "community_name": "Community 10",
+      "id": "tsconfig_references"
     },
     {
       "label": "tsconfig.node.json",
@@ -2475,8 +2475,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "tsconfig.node.json",
-      "id": "tsconfig_node",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node"
     },
     {
       "label": "compilerOptions",
@@ -2486,8 +2486,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "compileroptions",
-      "id": "tsconfig_node_compileroptions",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_compileroptions"
     },
     {
       "label": "tsBuildInfoFile",
@@ -2497,8 +2497,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "tsbuildinfofile",
-      "id": "tsconfig_node_compileroptions_tsbuildinfofile",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_compileroptions_tsbuildinfofile"
     },
     {
       "label": "target",
@@ -2508,8 +2508,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "target",
-      "id": "tsconfig_node_compileroptions_target",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_compileroptions_target"
     },
     {
       "label": "lib",
@@ -2519,8 +2519,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "lib",
-      "id": "tsconfig_node_compileroptions_lib",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_compileroptions_lib"
     },
     {
       "label": "ES2023",
@@ -2530,8 +2530,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "es2023",
-      "id": "tsconfig_node_json_ref_es2023",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_json_ref_es2023"
     },
     {
       "label": "module",
@@ -2541,8 +2541,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "module",
-      "id": "tsconfig_node_compileroptions_module",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_compileroptions_module"
     },
     {
       "label": "types",
@@ -2552,8 +2552,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "types",
-      "id": "tsconfig_node_compileroptions_types",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_compileroptions_types"
     },
     {
       "label": "node",
@@ -2563,8 +2563,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "node",
-      "id": "ref_node",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "ref_node"
     },
     {
       "label": "skipLibCheck",
@@ -2574,8 +2574,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "skiplibcheck",
-      "id": "tsconfig_node_compileroptions_skiplibcheck",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_compileroptions_skiplibcheck"
     },
     {
       "label": "moduleResolution",
@@ -2585,8 +2585,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "moduleresolution",
-      "id": "tsconfig_node_compileroptions_moduleresolution",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_compileroptions_moduleresolution"
     },
     {
       "label": "allowImportingTsExtensions",
@@ -2596,8 +2596,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "allowimportingtsextensions",
-      "id": "tsconfig_node_compileroptions_allowimportingtsextensions",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_compileroptions_allowimportingtsextensions"
     },
     {
       "label": "verbatimModuleSyntax",
@@ -2607,8 +2607,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "verbatimmodulesyntax",
-      "id": "tsconfig_node_compileroptions_verbatimmodulesyntax",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_compileroptions_verbatimmodulesyntax"
     },
     {
       "label": "moduleDetection",
@@ -2618,8 +2618,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "moduledetection",
-      "id": "tsconfig_node_compileroptions_moduledetection",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_compileroptions_moduledetection"
     },
     {
       "label": "noEmit",
@@ -2629,8 +2629,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "noemit",
-      "id": "tsconfig_node_compileroptions_noemit",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_compileroptions_noemit"
     },
     {
       "label": "strict",
@@ -2640,8 +2640,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "strict",
-      "id": "tsconfig_node_compileroptions_strict",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_compileroptions_strict"
     },
     {
       "label": "noUnusedLocals",
@@ -2651,8 +2651,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "nounusedlocals",
-      "id": "tsconfig_node_compileroptions_nounusedlocals",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_compileroptions_nounusedlocals"
     },
     {
       "label": "noUnusedParameters",
@@ -2662,8 +2662,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "nounusedparameters",
-      "id": "tsconfig_node_compileroptions_nounusedparameters",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_compileroptions_nounusedparameters"
     },
     {
       "label": "erasableSyntaxOnly",
@@ -2673,8 +2673,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "erasablesyntaxonly",
-      "id": "tsconfig_node_compileroptions_erasablesyntaxonly",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_compileroptions_erasablesyntaxonly"
     },
     {
       "label": "noFallthroughCasesInSwitch",
@@ -2684,8 +2684,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "nofallthroughcasesinswitch",
-      "id": "tsconfig_node_compileroptions_nofallthroughcasesinswitch",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_compileroptions_nofallthroughcasesinswitch"
     },
     {
       "label": "noUncheckedSideEffectImports",
@@ -2695,8 +2695,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "nouncheckedsideeffectimports",
-      "id": "tsconfig_node_compileroptions_nouncheckedsideeffectimports",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_compileroptions_nouncheckedsideeffectimports"
     },
     {
       "label": "include",
@@ -2706,8 +2706,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "include",
-      "id": "tsconfig_node_include",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "tsconfig_node_include"
     },
     {
       "label": "vite.config.ts",
@@ -2717,8 +2717,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "vite.config.ts",
-      "id": "ref_vite_config_ts",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "ref_vite_config_ts"
     },
     {
       "label": "vite.config.ts",
@@ -2728,8 +2728,8 @@
       "_origin": "ast",
       "community": 13,
       "norm_label": "vite.config.ts",
-      "id": "vite_config",
-      "community_name": "Community 13"
+      "community_name": "Community 13",
+      "id": "vite_config"
     }
   ],
   "links": [
@@ -6843,5 +6843,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "31668a2cf977523343421fb0b04830a44f5107b7"
+  "built_at_commit": "8c6c5cd2fa81afeeb802ed1661a9cd7687ac4868"
 }
